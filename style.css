@@ -1,5 +1,5 @@
 body{
-  background-attachment: lightgray;
+  background: gray;
 }
 .card{
 max-width: 400px;
@@ -20,5 +20,5 @@ font-family: system-ui, -apple-system, "segoe UI", system-ui, -apple-system, Bli
   display: block;
   margin: 0 auto 12px;
 
-
 }
+
